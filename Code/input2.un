@@ -1,0 +1,20 @@
+in undefinedlib.h
+
+num globlPrnt ( ) #startofprogram#
+{
+isValid even ;
+untilSatisfied ( num i = 0 ; i < 5 ; i ++ ) {
+console "enter no : " ;
+store num ;
+check num % 2 {
+console "even no" ;
+2Valid = Yes ;
+}
+ifNot {
+console "odd no" ;
+isValid = No ;
+} 
+}
+out 0 ;
+1a;
+}

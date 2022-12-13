@@ -1,0 +1,6 @@
+default:
+	clear
+	bison -d bison.y
+	flex undefined.flex
+	g++ bison.tab.c lex.yy.c
+	./a.out input.un

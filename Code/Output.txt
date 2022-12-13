@@ -1,0 +1,60 @@
+token_id_1 } close parenthesis
+token_id_2 ; terminator
+token_id_3 0 number
+token_id_4 out exit gate
+token_id_5 } close parenthesis
+token_id_6 } close parenthesis
+token_id_7 ; terminator
+token_id_8 No bool value
+token_id_9 = assignment operator
+token_id_10 isValid bool datatype
+token_id_11 ; terminator
+token_id_12 "odd no" charStr
+token_id_13 console output
+token_id_14 { open parenthesis
+token_id_15 ifNot condition
+token_id_16 } close parenthesis
+token_id_17 ; terminator
+token_id_18 Yes bool value
+token_id_19 = assignment operator
+token_id_20 isValid bool datatype
+token_id_21 ; terminator
+token_id_22 "even no" charStr
+token_id_23 console output
+token_id_24 { open parenthesis
+token_id_25 2 number
+token_id_26 % arithmetic operator
+token_id_27 num identifier
+token_id_28 check condition
+token_id_29 ; terminator
+token_id_30 num identifier
+token_id_31 store input
+token_id_32 ; terminator
+token_id_33 "enter no : " charStr
+token_id_34 console output
+token_id_35 { open parenthesis
+token_id_36 ) close bracket
+token_id_37 ++ unary operator
+token_id_38 i identifier
+token_id_39 ; terminator
+token_id_40 5 number
+token_id_41 < relational operator
+token_id_42 i identifier
+token_id_43 ; terminator
+token_id_44 0 number
+token_id_45 = assignment operator
+token_id_46 i identifier
+token_id_47 num identifier
+token_id_48 ( open bracket
+token_id_49 untilSatisfied loop
+token_id_50 ; terminator
+token_id_51 even identifier
+token_id_52 isValid bool datatype
+token_id_53 { open parenthesis
+token_id_54 #startofprogram# comment
+token_id_55 ) close bracket
+token_id_56 ( open bracket
+token_id_57 globlPrnt main function
+token_id_58 num identifier
+token_id_59 undefinedlib.h keyword
+token_id_60 in module
